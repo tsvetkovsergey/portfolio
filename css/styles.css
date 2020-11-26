@@ -113,8 +113,9 @@ a:hover {
 
 .top-cloud {
   position: absolute;
-  right: 300px;
+  left: 50%;
   top: 110px;
+  transform: translate(15rem, 0);
   width: 8rem;
 }
 
